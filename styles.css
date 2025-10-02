@@ -1,0 +1,18 @@
+.card {
+    background-color: darkgray;
+    width: 400px;
+    padding: 20px;
+    color: white;
+}
+
+.card h2 {
+     
+}
+
+.card a {
+    text-decoration: none;
+    color:white;
+    background-color: cornflowerblue;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
