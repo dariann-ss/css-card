@@ -2,13 +2,15 @@
     background-color: lightgray;
     width: 400px;
     padding: 30px;
-    color: white;
     border-radius: 8px;
+    border: 2px solid darkblue;
 }
 
 .card h2 {
      font-size: 60px;
-     color: rgb(153, 0, 0);
+     color: darkblue;
+     margin-top: 0px;
+     margin-bottom: 10px;
 }
 
 .card p {
@@ -25,8 +27,8 @@
 
 #action {
     color:white;
-    background-color: cornflowerblue;
-    border: 2px solid cornflowerblue;
+    background-color: darkblue;
+    border: 2px solid darkblue;
 }
 
 #cancel {
